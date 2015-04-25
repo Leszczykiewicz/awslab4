@@ -2,4 +2,4 @@
 	{"path": "/digestForm", "action":{"template":"digestForm.ejs", "params":[]} },
 	{"path":"/","action":"createform"},	
 	{"path":"/digest","action":"digest"},
-	{"path":"/success","action":"success"}]
+	{"path":"/success2","action":"success2"}]
